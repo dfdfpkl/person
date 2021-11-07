@@ -1,0 +1,45 @@
+body{
+    font-family: Arial, 'Gabriela', sans-serif;
+    background-color: rgb(34, 40, 49);
+    text-align: center;
+    margin: auto;
+}
+section{
+    text-align: center;
+    margin:auto;
+    width: 800px;
+    height: auto;
+}
+img{
+    height: auto;
+    width: 50%;
+}
+h{
+  font-family: Arial;
+}
+h1{
+    color: goldenrod;
+}
+h2{
+    color: orange;
+}
+b{
+    color: rgb(201, 103, 73);
+}
+strong{
+    color: yellowgreen;
+}
+i{
+    color: skyblue;
+}
+li{
+    font-family: 'Gabriela';
+    color: whitesmoke;
+    text-align: left;
+}
+p{
+    font-family: 'Gabriela';
+    color: whitesmoke;
+    width: 600px;
+    text-align: justify;
+}
